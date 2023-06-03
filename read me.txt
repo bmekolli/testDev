@@ -1,0 +1,26 @@
+How to run this Library Management System Project
+
+1. Download and Unzip file on your local system .
+2. Put library folder inside root directory.
+
+Database Configuration
+
+Open phpmyadmin
+Create Database digital_library
+Import database digital_library.sql (available inside zip package)
+
+For User
+
+Open Your browser put inside browser “localhost/digital_library/”
+Login Details for user: at db
+
+
+For Admin Panel
+
+Open Your browser put inside browser “localhost/library/admin”
+(you can also use your private ip instead of localhost to open it at a different computer that is part of the network where the database is part of )
+Login Details for admin : 
+Username: admin
+Password: admin
+
+
